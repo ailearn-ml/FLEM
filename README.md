@@ -31,7 +31,7 @@ python run_flem.py
 
 ## Acknowledgment
 
-Our project references the datasets in the following repositories and papers.
+Our project references the datasets in the following paper.
 
 Mark Everingham, S. M. Ali Eslami, Luc Van Gool, Christopher K. I. Williams, John M. Winn, Andrew Zisserman:
 The Pascal Visual Object Classes Challenge: A Retrospective. International Journal of Computer Vision. 2015, 111(1): 98-136.
