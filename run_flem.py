@@ -68,8 +68,8 @@ verbose = False
 seed = 0
 set_seed(seed)
 
-algorithm = 'ld'
-method = 'threshold'
+algorithm = 'flem'
+method = 'ld'
 alpha = 0.001
 beta = 0.001
 dataset_name = 'VOC2007'
