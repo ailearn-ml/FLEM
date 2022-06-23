@@ -123,7 +123,7 @@ class FLEM(MLLTemplate):
             pt = pt0 + pt1
             one_sided_gamma = gamma1 * y + gamma2 * (1 - y)
             one_sided_w = torch.pow(1 - pt, one_sided_gamma)
-            loss *= one_sided_w
+        loss *= one_sided_w
         return -loss.mean()
 
     def train_loop(self, epoch, train_loader, log=None, print_freq=10):
