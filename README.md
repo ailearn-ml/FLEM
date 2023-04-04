@@ -5,7 +5,7 @@ Code for "Fusion Label Enhancement for Multi-Label Learning" in IJCAI-ECAI 2022.
 If you use the code in this repo for your work, please cite the following bib entries:
 
 ```
-@inproceedings{DBLP:conf/ijcai/0002AXG22,
+@inproceedings{Zhao2022FLEM,
   author    = {Xingyu Zhao and
                Yuexuan An and
                Ning Xu and
